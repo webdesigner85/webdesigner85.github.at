@@ -1,2 +1,2 @@
-# webdesigner85.github.at
+# webdesigner85.github.io
 the website for everyone
